@@ -6,11 +6,13 @@ CMakeUserPresets.json
 Testing
 Makefile
 cmake_install.cmake
+.xmake/*
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
 .idea/*
+.vscode/*
 build/*
 bedrock_server/*
 bedrock_server_preview/*
